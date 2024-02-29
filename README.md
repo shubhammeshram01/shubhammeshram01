@@ -1,8 +1,8 @@
-![logo](https://github.com/shubhammeshram01/shubhammeshram01/blob/main/Banner%20SRM.png)
+![logo](https://github.com/shubhammeshram01/shubhammeshram01/blob/main/Banner%20SRM%202.png)
 <h1 align="center">Hi 👋, I'm Shubham Meshram</h1>
 <h3 align="center">Passionate and aspiring data analyst and data scientist from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=6c09b952xb3brqp9qz7eknb8v53u9gmg13nibieic992bl81&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhammeshram01&label=Profile%20views&color=0e75b6&style=flat" alt="shubhammeshram01" /> </p>
 
