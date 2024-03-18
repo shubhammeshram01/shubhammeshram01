@@ -8,10 +8,10 @@
 
 - 🌱 I’m currently learning **Data analytics and Machine learning**
 - 🌱 I'm skilled in the following technologies :
-- **Databases - MySQL**
+- **Databases             - MySQL**
 - **Programming languages - Python**
-- **Python Libraries - NumPy, Pandas, Seaborn, Matplotlib**
-- **Visualization Tools - Power BI, Tableau, MS Excel**
+- **Python Libraries      - NumPy, Pandas, Seaborn, Matplotlib**
+- **Visualization Tools   - Power BI, Tableau, MS Excel**
 - **Quantitative Analysis - Statistics, EDA(Exploratory Data Analysis),Machine learning**
 
 <h3 align="left">Connect with me:</h3>
