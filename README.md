@@ -2,11 +2,17 @@
 <h1 align="center">Hi 👋, I'm Shubham Meshram</h1>
 <h3 align="center">Passionate and Aspiring Data Scientist</h3>
 
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=6c09b952xb3brqp9qz7eknb8v53u9gmg13nibieic992bl81&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" width="350" src="https://media1.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=6c09b952xb3brqp9qz7eknb8v53u9gmg13nibieic992bl81&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhammeshram01&label=Profile%20views&color=0e75b6&style=flat" alt="shubhammeshram01" /> </p>
 
 - 🌱 I’m currently learning **Data analytics and Machine learning**
+- 🌱 I'm skilled in the following technologies :
+- **Databases - MySQL**
+- **Programming languages - Python**
+- **Python Libraries - NumPy, Pandas, Seaborn, Matplotlib**
+- **Visualization Tools - Power BI, Tableau, MS Excel**
+- **Quantitative Analysis - Statistics, EDA(Exploratory Data Analysis),Machine learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
