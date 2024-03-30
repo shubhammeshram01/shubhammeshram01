@@ -10,7 +10,7 @@
 - 🌱 I'm skilled in the following technologies :
 - **Databases             - MySQL, PostgreSQL, Microsoft SQL Server**
 - **Programming languages - Python**
-- **Python Libraries      - NumPy, Pandas, Seaborn, Matplotlib**
+- **Python Libraries      - NumPy, Pandas, Seaborn, Matplotlib, Plotly**
 - **Visualization Tools   - Power BI, Tableau, MS Excel**
 - **Quantitative Analysis - Statistics, EDA(Exploratory Data Analysis), Machine learning**
 
